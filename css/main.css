@@ -1,0 +1,16 @@
+footer {
+	padding: 3rem 0;
+	border-top: 5px solid:#000;
+}
+
+footer li {
+	list-style: none;
+}
+
+footer li a {
+	text-decoration: none;
+}
+
+.name img{
+	height:40px;
+}
